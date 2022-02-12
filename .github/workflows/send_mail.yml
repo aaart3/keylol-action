@@ -13,6 +13,8 @@ jobs:
           urls: 
             forum.php?mod=forumdisplay&fid=319&filter=author&orderby=dateline&dateline=86400
             forum.php?mod=forumdisplay&fid=251&filter=author&orderby=dateline
+            forum.php?mod=forumdisplay&fid=161&filter=author&orderby=dateline
+            forum.php?mod=forumdisplay&fid=271&filter=author&orderby=dateline
           limit: 10
 
       - name: Send mail
